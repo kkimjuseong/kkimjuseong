@@ -36,5 +36,3 @@
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
 </div>
-
-Hi there
