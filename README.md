@@ -5,7 +5,7 @@
 
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=green&height=150&section=header&text=kimjuseong&fontFtyColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=yellowgreen;&height=150&section=header&text=kimjuseong&fontFtyColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
 
